@@ -28,7 +28,7 @@ offers:
     offer_slug: scale-tier-free-for-12-months
     offer_slug_aliases: []
     title: Scale plan free for 12 months
-    summary: Accepted startups receive the Polar Scale plan free for 12 months, normally $400 per month, with 3.40% plus $0.30 transaction fees, prioritized ticket support and a dedicated Slack channel.
+    summary: Accepted startups receive the Polar Scale plan free for 12 months, normally $400 per month, with 3.40% plus $0.30 transaction fees, prioritized support and a dedicated Slack channel.
     lifecycle:
       status: active
       effective_from: 2026-08-06T17:45:40.000Z
