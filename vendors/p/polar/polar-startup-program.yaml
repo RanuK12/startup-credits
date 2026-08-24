@@ -1,0 +1,17 @@
+name: Polar Startup Program
+vendor: Polar
+
+description: Polar offers a Startup Program providing the Scale plan free for 12 months (standard price: $400/month). The program includes prioritized ticket support and a dedicated Slack channel. Transaction fees still apply at 3.40% + $0.30 per transaction.
+
+pricing:
+  standard_price: $400/month
+  offer: Free for 12 months
+  transaction_fees: 3.40% + $0.30
+
+benefits:
+  - Free Scale plan for 12 months
+  - Prioritized ticket support
+  - Dedicated Slack channel
+
+application_process: Apply via Polar's official website
+website: https://polar.sh/startup-program
