@@ -1,5 +1,5 @@
 schema_version: sourcey.vendor-authoring/v1alpha1
-entity_id: ent_01kyyts97tdz1rtzzt919cthny
+entity_id: ent_01m0sdmb4qr77ks7h01jame1nm
 slug: cyber-chief
 slug_aliases: []
 name: Cyber Chief
@@ -12,21 +12,21 @@ description: Cyber Chief provides automated application-security capabilities, i
 links:
   site: https://cyberchief.ai
 sources:
-  - source_id: src_a5703a08dde126a8dceb545480be5629e0d825b2850010d50a47e9bdfb86b1f0
+  - source_id: src_d3a60c348f4e3fefa0bdb4ab0db75499a32fd74361c9b8ffb68ba85242559320
     url: https://www.cyberchief.ai/p/application-security-tool-for-startups.html
-  - source_id: src_aa37358989ed750304cec4c78e160fdf97b853f7a730ba6c39a35dea038dc117
+  - source_id: src_d3a60c348f4e3fefa0bdb4ab0db75499a32fd74361c9b8ffb68ba85242559320
     url: https://start.cyberchief.ai/apply
 programs:
-  - program_id: prg_01kyyts97x1wsbyazz8cez8dwd
+  - program_id: prg_01m0sdmb50bhkeqfcf5c0h3mac
     program_slug: cyber-chief-startup-program
     program_slug_aliases: []
     title: Cyber Chief Startup Program
     summary: Cyber Chief Startup Program provides 75% off during the first year and 35% off during the second year for qualifying funded startups.
     source_ids:
-      - src_aa37358989ed750304cec4c78e160fdf97b853f7a730ba6c39a35dea038dc117
+      - src_d3a60c348f4e3fefa0bdb4ab0db75499a32fd74361c9b8ffb68ba85242559320
 offers:
-  - offer_id: off_01kyyts97x6wp1yp57apfrmyz1
-    program_id: prg_01kyyts97x1wsbyazz8cez8dwd
+  - offer_id: off_01m0sdmb50mk0j27z4saa7g1a0
+    program_id: prg_01m0sdmb50bhkeqfcf5c0h3mac
     offer_slug: cyber-chief-startup-program
     offer_slug_aliases: []
     title: Cyber Chief Startup Program
@@ -84,12 +84,12 @@ offers:
               type: boolean
               value: true
     roles:
-      terms_authority_entity_id: ent_01kyyts97tdz1rtzzt919cthny
-      access_operator_entity_id: ent_01kyyr9svgcxd42r9s8g3knssn
+      terms_authority_entity_id: ent_01m0sdmb4qr77ks7h01jame1nm
+      access_operator_entity_id: ent_01m0sdmb4qr77ks7h01jame1nm
     access:
       availability: membership
       instructions: Apply through the Cyber Chief Startup Program application page
       method: other
       url: https://start.cyberchief.ai/apply
     source_ids:
-      - src_aa37358989ed750304cec4c78e160fdf97b853f7a730ba6c39a35dea038dc117
+      - src_d3a60c348f4e3fefa0bdb4ab0db75499a32fd74361c9b8ffb68ba85242559320
