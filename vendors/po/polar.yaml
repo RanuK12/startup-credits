@@ -1,37 +1,37 @@
 schema_version: sourcey.vendor-authoring/v1alpha1
-entity_id: ent_01kzc2rqsw8fpc33xb0n7tdqv5
+entity_id: ent_01m151gz1d63ry6zy76kyjkzgv
 slug: polar
 slug_aliases: []
 name: Polar
 domains:
   - value: polar.sh
     role: primary
-    valid_from: 2026-08-06T17:45:40.000Z
+    valid_from: 2026-08-28T22:35:00.000Z
 category: payments-fintech
 description: Polar is a billing and monetization platform and merchant of record for software and AI products, handling payments, subscriptions and sales tax.
 links:
   site: https://polar.sh
 sources:
-  - source_id: src_d1a8fe30cf1d27de0d3bc51f84a063154b9fbb56d33b116f10c87c0e085099dc
+  - source_id: src_122ff8851d8e46d5ddb791b6f22e811121ee8428e28c5fa25fb54b3f999a6138
     url: https://polar.sh/startup-program
 programs:
-  - program_id: prg_01kzc2rqswbanb2pxswwzyzd7m
+  - program_id: prg_01m151gz1kbz8jcwm6g9zet3kz
     program_slug: polar-startup-program
     program_slug_aliases: []
     title: Polar Startup Program
     summary: A year of free Scale tier billing for AI and SaaS startups, with the lowest transaction fees, prioritized support and a dedicated Slack channel.
     source_ids:
-      - src_d1a8fe30cf1d27de0d3bc51f84a063154b9fbb56d33b116f10c87c0e085099dc
+      - src_122ff8851d8e46d5ddb791b6f22e811121ee8428e28c5fa25fb54b3f999a6138
 offers:
-  - offer_id: off_01kzc2rqswks96qmw0m881v4d5
-    program_id: prg_01kzc2rqswbanb2pxswwzyzd7m
+  - offer_id: off_01m151gz1khtwenkr3cqg421mw
+    program_id: prg_01m151gz1kbz8jcwm6g9zet3kz
     offer_slug: scale-tier-free-for-12-months
     offer_slug_aliases: []
     title: Scale plan free for 12 months
     summary: Accepted startups receive the Polar Scale plan free for 12 months, normally $400 per month, with 3.40% plus $0.30 transaction fees, prioritized ticket support and a dedicated Slack channel.
     lifecycle:
       status: active
-      effective_from: 2026-08-06T17:45:40.000Z
+      effective_from: 2026-08-28T22:35:00.000Z
     economics:
       consideration:
         description: Transaction fees of 3.40% plus $0.30 continue to apply during the free period. After 12 months the account can keep Scale at the standard $400 per month, switch to Pro or Growth, or move to the Starter tier with no commitment; Polar sends a 30 day notice before the program ends.
@@ -68,11 +68,11 @@ offers:
             reason: vendor-discretion
             statement: Applications are reviewed case by case.
     roles:
-      terms_authority_entity_id: ent_01kzc2rqsw8fpc33xb0n7tdqv5
-      access_operator_entity_id: ent_01kzc2rqsw8fpc33xb0n7tdqv5
+      terms_authority_entity_id: ent_01m151gz1d63ry6zy76kyjkzgv
+      access_operator_entity_id: ent_01m151gz1d63ry6zy76kyjkzgv
     access:
       availability: public
       method: form
       url: https://polar.sh/startup-program
     source_ids:
-      - src_d1a8fe30cf1d27de0d3bc51f84a063154b9fbb56d33b116f10c87c0e085099dc
+      - src_122ff8851d8e46d5ddb791b6f22e811121ee8428e28c5fa25fb54b3f999a6138
