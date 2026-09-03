@@ -7,7 +7,7 @@ domains:
   - value: polar.sh
     role: primary
     valid_from: 2026-08-06T17:45:40.000Z
-category: startup_credits
+category: payments-fintech
 description: Polar is a billing and monetization platform and merchant of record for software and AI products, handling payments, subscriptions and sales tax.
 links:
   site: https://polar.sh
